@@ -1,7 +1,7 @@
 # SafeClaw — Safety Benchmark for OpenClaw Agent Skills
 
 Empirical evaluation of L0 safety skills in the OpenClaw personal agent framework.
-Three real-world attack scenarios, ~4,000 test cases, 2026-03-19 to 2026-03-21.
+Three real-world attack scenarios.
 
 ---
 
