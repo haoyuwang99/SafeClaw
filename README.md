@@ -1,4 +1,4 @@
-# SafeClaw — Safety Benchmark for OpenClaw Agent Skills
+# SafeClaw — Safety Layer for OpenClaw Agent Skills
 
 Empirical evaluation of L0 safety skills in the OpenClaw personal agent framework.
 Three real-world attack scenarios.
