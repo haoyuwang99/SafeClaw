@@ -16,6 +16,8 @@ SafeClaw/
 │
 │── risk-assessment/            # A preliminary risk analysis for OpenClaw built-in skills.
 │
+│── safes-kill-factory/         # meta skill that automatically generate safe counterpart for a given skill
+│
 ├── scenarios/                  # Evaluation
 │   ├── google-workspace/       # Scenario 1: safe-gog (20 risk types, 1,971 cases)
 │   │   ├── skill/SKILL.md      # The safe-gog skill under evaluation
